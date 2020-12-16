@@ -1,2 +1,2 @@
 # innovolt-page
-Repository of innovolt static page.
+Repository of Innovolt static page.
